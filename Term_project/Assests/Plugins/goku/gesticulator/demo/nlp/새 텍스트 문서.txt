@@ -1,0 +1,1 @@
+anaconda 가상환경 gestdio -- python 3.8
